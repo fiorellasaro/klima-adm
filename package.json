@@ -10,7 +10,7 @@
   },
   "homepage": "https://fiorellasaro.github.io/klima-adm",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "firebase": "^7.11.0",
     "gh-pages": "^2.2.0",
